@@ -1,0 +1,19 @@
+p.text-center{
+    color: rgba(20, 19, 20, 0.73); 
+    }
+    .fa-github{
+        color: #1C1C1C;
+    }
+    .fa-bitbucket{
+        color:#21215C;
+    }
+    .fa-rss{
+        color: orange;
+    }
+    .fa-google-plus{
+        color: red;
+    }
+    .fa-meetup{
+        color: #F64B69;
+    }
+    
